@@ -1,0 +1,15 @@
+body {
+
+background-color: green;
+}
+section {
+    background-color:yellow ;
+    display: inline-block; border-block-start-color: blue;
+    vertical-align: top;
+width: 200px;
+height: 100px;
+padding: 150px;
+border: 3100px: chocolate
+margin: 20px; 
+border-radius: 20px;
+}
